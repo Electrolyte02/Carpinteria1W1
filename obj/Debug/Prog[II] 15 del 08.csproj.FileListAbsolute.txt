@@ -1,0 +1,12 @@
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\bin\Debug\Prog[II] 15 del 08.exe.config
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\bin\Debug\Prog[II] 15 del 08.exe
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\bin\Debug\Prog[II] 15 del 08.pdb
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\obj\Debug\Prog[II] 15 del 08.csproj.AssemblyReference.cache
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\obj\Debug\Prog[II] 15 del 08.csproj.SuggestedBindingRedirects.cache
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\obj\Debug\Prog_II__15_del_08.FrmPrincipal.resources
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\obj\Debug\Prog_II__15_del_08.Properties.Resources.resources
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\obj\Debug\Prog[II] 15 del 08.csproj.GenerateResource.cache
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\obj\Debug\Prog[II] 15 del 08.csproj.CoreCompileInputs.cache
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\obj\Debug\Prog[II] 15 del 08.exe
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\obj\Debug\Prog[II] 15 del 08.pdb
+C:\Users\esteb\source\repos\Prog[II] 15 del 08\obj\Debug\Prog_II__15_del_08.Presentacion.FrmNuevoPresupuesto.resources
